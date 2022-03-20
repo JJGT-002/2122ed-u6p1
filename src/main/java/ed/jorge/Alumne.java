@@ -13,7 +13,7 @@ public class Alumne {
 		
 		return  "nom = " + nom + System.lineSeparator() +
 				"cognoms = " + cognoms + System.lineSeparator() +
-				"any = " + nom + System.lineSeparator() +
+				"any = " + any + System.lineSeparator() +
 				"cicleFormatiu = " + cicleFormatiu;
 				
 		
