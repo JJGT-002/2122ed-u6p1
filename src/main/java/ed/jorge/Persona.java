@@ -3,18 +3,18 @@ package ed.jorge;
 public class Persona {
 	
 	
-	public String nombre;
-	public String apellido;
-	public int anyo;
-	public String clase;
+	public String n;
+	public String c;
+	public int a;
+	public String cl;
 	
 	@Override
 	public String toString() {
 		
-		return  "nombre = " + nombre + System.lineSeparator() +
-				"apellido = " + apellido + System.lineSeparator() +
-				"anyo = " + anyo + System.lineSeparator() +
-				"clase = " + clase;
+		return  "n = " + n + System.lineSeparator() +
+				"c = " + c + System.lineSeparator() +
+				"a = " + n + System.lineSeparator() +
+				"cl = " + cl;
 				
 		
 	}

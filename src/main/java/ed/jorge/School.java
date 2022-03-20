@@ -6,10 +6,10 @@ public class School {
 		
 		Persona p = new Persona();
 		
-		p.nombre = "Arturo";
-		p.apellido = "Candela";
-		p.clase = "1º DAM/DAW";
-		p.anyo = 2021;
+		p.n = "Jorge";
+		p.c = "Gregori Tandazo";
+		p.cl = "1º DAW";
+		p.a = 2022;
 		
 		System.out.println(p.toString());
 
